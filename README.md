@@ -1,4 +1,4 @@
-autoUI
+1号店 ui自动化系统
 ======
 
-auto ui for designers.
+使用ui自动化系统自动生成 css等。
